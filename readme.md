@@ -3,6 +3,13 @@ BeerJS Montreal
 
 BeerJS Montreal is a welcoming get-together for everyone who wants to learn about JavaScript or just meet other developers over beer.
 
+BeerJS/Montreal #1
+-------------
+
+* Please come! 
+* April 20th, 7pm at [Brutopia](http://brutopia.net/)
+* 1219 Rue Crescent, Montréal, QC H3G 2B1, Canada
+* There's an issue page if you have questions/comments/concerns/rsvp
 
 
 Want to join?
@@ -10,20 +17,15 @@ Want to join?
 
 Watch this repo to get notified of upcoming meeting dates or date and location changes.
 
-
-
 Want to help?
 -------------
 
 Pull requests and Issues are always welcome!
 
-
-
 Why BeerJS Montreal?
 --------------
 
 Montreal has a great tech-scene, but after attending some events as a new resident of the city I thought there was room for another event to bridge the gap between 'networking', learning, and socializing. With beer as the secret ingredient maybe we can do all three at the same time! 
-
 
 
 
